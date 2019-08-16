@@ -1,0 +1,5 @@
+# 忽略node_modules, /dist
+node_modules
+/dist
+
+
