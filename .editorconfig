@@ -1,0 +1,14 @@
+root = true
+
+[*]
+charset = utf-8
+end_of_line = crlf
+#tab二进制
+indent_size = 2
+indent_style = space
+#默认在最后添加一行空行
+insert_final_newline = true
+# max_line_length = 120
+# tab_width = 2
+#去掉多余不必要的空格
+rim_trailing_whitespace = true
